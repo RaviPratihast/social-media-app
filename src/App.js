@@ -3,7 +3,9 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
+    {/* landing page */}
+    {/* main page */}
+    ConnectNet
     </div>
   );
 }
